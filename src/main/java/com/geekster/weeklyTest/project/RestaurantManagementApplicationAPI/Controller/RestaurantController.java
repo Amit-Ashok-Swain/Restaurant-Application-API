@@ -1,7 +1,7 @@
-package com.geekster.weeklyTest.project.RestaurantManagementApplication.RestaurantApplicationAPI.Controller;
+package com.geekster.weeklyTest.project.RestaurantManagementApplicationAPI.Controller;
 
-import com.geekster.weeklyTest.project.RestaurantManagementApplication.RestaurantApplicationAPI.Model.Restaurant;
-import com.geekster.weeklyTest.project.RestaurantManagementApplication.RestaurantApplicationAPI.Service.RestaurantService;
+import com.geekster.weeklyTest.project.RestaurantManagementApplicationAPI.Model.Restaurant;
+import com.geekster.weeklyTest.project.RestaurantManagementApplicationAPI.Service.RestaurantService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.validation.annotation.Validated;

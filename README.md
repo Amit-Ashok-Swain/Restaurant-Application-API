@@ -79,7 +79,7 @@ The Controller layer is responsible for handling incoming HTTP requests and dele
    }
    ```
 
-5. **Update Restaurant Specialty:** `PUT /restaurant/id/{id}/specialty`
+5. **Update Restaurant Specialty:** `PUT /restaurant/id/{id}/specialty/{specialty}`
 
    This endpoint updates the specialty of a restaurant by its ID.
 

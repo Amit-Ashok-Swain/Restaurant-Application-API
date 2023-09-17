@@ -1,6 +1,6 @@
-package com.geekster.weeklyTest.project.RestaurantManagementApplication.RestaurantApplicationAPI.Repository;
+package com.geekster.weeklyTest.project.RestaurantManagementApplicationAPI.Repository;
 
-import com.geekster.weeklyTest.project.RestaurantManagementApplication.RestaurantApplicationAPI.Model.Restaurant;
+import com.geekster.weeklyTest.project.RestaurantManagementApplicationAPI.Model.Restaurant;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.geekster.weeklyTest.project.RestaurantManagementApplication.RestaurantApplicationAPI;
+package com.geekster.weeklyTest.project.RestaurantManagementApplicationAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

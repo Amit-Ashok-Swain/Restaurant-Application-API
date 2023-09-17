@@ -1,4 +1,4 @@
-package com.geekster.weeklyTest.project.RestaurantManagementApplication.RestaurantApplicationAPI.Model;
+package com.geekster.weeklyTest.project.RestaurantManagementApplicationAPI.Model;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

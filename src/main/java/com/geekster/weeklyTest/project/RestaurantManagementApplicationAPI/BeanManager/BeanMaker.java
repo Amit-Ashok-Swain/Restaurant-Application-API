@@ -1,6 +1,6 @@
-package com.geekster.weeklyTest.project.RestaurantManagementApplication.RestaurantApplicationAPI.BeanManager;
+package com.geekster.weeklyTest.project.RestaurantManagementApplicationAPI.BeanManager;
 
-import com.geekster.weeklyTest.project.RestaurantManagementApplication.RestaurantApplicationAPI.Model.Restaurant;
+import com.geekster.weeklyTest.project.RestaurantManagementApplicationAPI.Model.Restaurant;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
