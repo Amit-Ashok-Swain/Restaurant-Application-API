@@ -10,7 +10,7 @@ ___
 <a href="Spring Boot url" >
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.1.3-brightgreen.svg" />
 </a>
-    <img alt = "License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+    <img alt = "GPL v3" src="https://img.shields.io/badge/License-GPLv3-blue.svg" />
     </a>
 </p>
 
@@ -184,16 +184,17 @@ Key Features:
 
 The Restaurant Management Application serves as a practical example of Spring Boot application development, demonstrating best practices in API design and restaurant data management. It offers a solid foundation for building and extending restaurant management systems in various applications.
 
+<!-- License -->
 ## License
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
-This project is licensed under the [MIT License](LICENSE).
-
+<!-- Acknowledgments -->
 ## Acknowledgments
-
 Thank you to the Spring Boot and Java communities for providing excellent tools and resources.
 
+<!-- Contact -->
 ## Contact
-For questions or feedback, please contact [Amit Ashok Swain](mailto:business.amitswain@gmail.com)
+For questions or feedback, please contact [Amit Ashok Swain](mailto:business.amitswain@gmail.com).
 
 
 
